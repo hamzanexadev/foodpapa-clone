@@ -17,8 +17,8 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 16px;
-    gap: 33vw;
+    margin-top: 10px;
+    gap: 28vw;
     z-index: 1;
     height: 100px;
 }
